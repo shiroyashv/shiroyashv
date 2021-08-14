@@ -10,6 +10,5 @@ me = {
     "skills": ["Python", "Django"]
   }
 ```
-![alt-текст][logo] @TheXtreme30
 
-[logo]: https://ru.freepik.com/free-vector/telegram-icon_3327555.htm#&position=5 "telegram"
+Telegram @TheXtreme30

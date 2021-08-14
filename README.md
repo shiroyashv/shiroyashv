@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TheXtreme30/TheXtreme30/blob/main/cyb.gif" />
+  <img src="https://github.com/TheXtreme30/TheXtreme30/blob/main/cyber.gif" />
 </p> 
 
 ```json

@@ -12,4 +12,4 @@ me = {
 ```
 ![alt-текст][logo] @TheXtreme30
 
-[logo]: https://ru.wikipedia.org/wiki/Файл:Telegram_logo.svg "telegramm"
+[logo]: https://ru.freepik.com/free-vector/telegram-icon_3327555.htm#&position=5 "telegram"

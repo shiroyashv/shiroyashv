@@ -12,7 +12,7 @@ me = {
 ```
 
 
-[![][tglogo]][tg]{:target="_blank"}   [![][vklogo]][vk]{:target="_blank"}
+[![][tglogo]][tg]  [![][vklogo]][vk]
 
 
 [tg]: https://t.me/TheXtreme30

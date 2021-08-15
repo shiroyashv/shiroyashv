@@ -15,4 +15,4 @@ me = {
 
 ![][logo] [@TheXtreme30](https://t.me/TheXtreme30)
 
- [logo]: https://github.com/TheXtreme30/TheXtreme30/blob/main/telegram-logo.ico "telegramm"
+ [logo]: https://github.com/TheXtreme30/TheXtreme30/blob/main/telegram-logo-32.ico "telegramm"

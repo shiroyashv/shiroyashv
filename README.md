@@ -11,4 +11,8 @@ me = {
   }
 ```
 
-Telegram [@TheXtreme30](https://t.me/TheXtreme30)
+[@TheXtreme30](https://t.me/TheXtreme30)
+
+![alt-текст][logo] [@TheXtreme30](https://t.me/TheXtreme30)
+
+ [logo]: https://github.com/TheXtreme30/TheXtreme30/blob/main/telegram-logo.ico "telegramm"

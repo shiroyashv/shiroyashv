@@ -8,6 +8,7 @@ me = {
     "age": "23",
     "local": "Kazakhstan",
     "skills": ["Python", "Django"]
+    "hobbies": ["sport", "cybersport", "anime"]
   }
 ```
 

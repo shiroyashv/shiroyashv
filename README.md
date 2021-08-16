@@ -7,7 +7,7 @@ me = {
     "name": "Sergey Balandov",
     "age": "23",
     "local": "Kazakhstan",
-    "skills": ["Python", "Django"]
+    "skills": ["Python", "Django"],
     "hobbies": ["sport", "cybersport", "anime"]
   }
 ```

@@ -5,10 +5,10 @@
 ```json
 me = {
     "name": "Sergey Balandov",
-    "age": "23",
-    "local": "Kazakhstan",
+    "age": "24",
+    "location": "Kazakhstan",
     "skills": ["Python", "Django"],
-    "hobbies": ["sport", "cybersport", "anime"]
+    "hobbies": ["sport", "cybersport", "anime", "art"]
   }
 ```
 

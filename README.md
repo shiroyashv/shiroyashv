@@ -12,8 +12,9 @@ me = {
   }
 ```
 
-
-[![][tglogo]][tg]  [![][vklogo]][vk]
+<div align="center">
+  [![][tglogo]][tg]  [![][vklogo]][vk]
+</div>
 
 
 [tg]: https://t.me/TheXtreme30

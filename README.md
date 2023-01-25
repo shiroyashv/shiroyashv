@@ -9,6 +9,6 @@ me = {
     "age": "24",
     "location": "Kazakhstan",
     "skills": ["Python", "Perl"],
-    "hobbies": ["sport", "cybersport", "art"]
+    "hobbies": ["sport", "cybersport", "art"],
   }
 ```

@@ -6,9 +6,8 @@
 ```json
 me = {
     "name": "Sergey Balandov",
-    "age": "25",
+    "age": "28",
     "location": "Kazakhstan",
-    "skills": ["Python", "Perl"],
-    "hobbies": ["sport", "cybersport", "art"],
+    "skills": ["Go", "Python"],
   }
 ```
